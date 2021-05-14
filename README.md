@@ -6,7 +6,7 @@ service?
 template?
 ingress?
 external DNS?
-Deployment STrategy(Rollingupdate)?
+Deployment STrategy(Rollback & Rollingupdate)?
 Nodegroup cordon?
 monitioring(prometheus/kibana/grafana ?
 config&scret?
